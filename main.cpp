@@ -10,7 +10,7 @@ int main(int argc, char **argv)
 	complex<long double> calculated_result;
 
 	if(argc !=2)
-		printf("Only one command line argument should be there.\n");
+		printf("Please provide only one command line argument.\n");
 
 	calculated_result = Calc.calculate(argv[1]);
 	print_complex(calculated_result);
