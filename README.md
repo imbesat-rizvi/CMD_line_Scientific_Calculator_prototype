@@ -4,12 +4,12 @@ This is a small project to make a command line Scientific Calculator which can w
 On compiling, one would be able to provide the expression to be evaluated as the first command line argument.
 
 At present, the operators suppported are;
-1) Addition
-2) Subtraction
-3) Multiplication
-4) Division
-5) Unary Plus
-5) Unary Minus
+1) + for Addition
+2) - for Subtraction
+3) * for Multiplication
+4) / for Division
+5) + for Unary Plus
+6) - for Unary Minus
 
 The functions presently supported are;
 1) sin
