@@ -2,6 +2,7 @@
 
 This is a small project to make a command line Scientific Calculator which can work upon both Real as well as Complex numbers.
 On compiling, one would be able to provide the expression to be evaluated as the first command line argument.
+For bracketing, one can use all the three types of brackets i.e. '(' or '{' or '['.
 
 At present, the operators suppported are;
 1) + for Addition
