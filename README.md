@@ -4,7 +4,7 @@ This is a small project to make a command line Scientific Calculator which can w
 On compiling, one would be able to provide the expression to be evaluated as the first command line argument.
 For bracketing, one can use all the three types of brackets i.e. '(' or '{' or '['.
 
-At present, the operators suppported are;
+At present, the operators suppported are:
 1) \+ for Addition
 2) \- for Subtraction
 3) \* for Multiplication
@@ -12,7 +12,7 @@ At present, the operators suppported are;
 5) \+ for Unary Plus
 6) \- for Unary Minus
 
-The functions presently supported are;
+The functions presently supported are:
 1) sin
 2) cos
 3) tan
