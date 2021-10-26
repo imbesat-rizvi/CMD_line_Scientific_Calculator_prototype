@@ -5,12 +5,12 @@ On compiling, one would be able to provide the expression to be evaluated as the
 For bracketing, one can use all the three types of brackets i.e. '(' or '{' or '['.
 
 At present, the operators suppported are;
-1) + for Addition
-2) - for Subtraction
-3) * for Multiplication
+1) \+ for Addition
+2) \- for Subtraction
+3) \* for Multiplication
 4) / for Division
-5) + for Unary Plus
-6) - for Unary Minus
+5) \+ for Unary Plus
+6) \- for Unary Minus
 
 The functions presently supported are;
 1) sin
